@@ -1,4 +1,8 @@
 this is my learn git file.
 now , i will learn it hardly!
-
+    -->> there add a word
 i wana get much money!!!
+
+
+next ,
+i will change this file.
